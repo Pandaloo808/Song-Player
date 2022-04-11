@@ -63,7 +63,8 @@ song1.stop();
 if(song2_status == false) 
 { 
 song2.play(); 
-  document.getElementById("song").innerHTML = "Playing - Harry Poter Song" } 
+  document.getElementById("song").innerHTML = "Playing - Harry Poter Song"; 
+} 
 } 
 function play() 
 { 
