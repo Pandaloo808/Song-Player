@@ -11,7 +11,7 @@ leftWristY = 0;
 function preload()
 {
 	song1 = loadSound("music2.mp3");
-  song2 = loadSound("harrypoter.mp3")
+  song2 = loadSound("music.mp3")
 }
 function setup() {
 	canvas =  createCanvas(600, 500);
