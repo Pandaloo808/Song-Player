@@ -10,7 +10,7 @@ leftWristX = 0;
 leftWristY = 0;
 function preload()
 {
-	song1 = loadSound("peterpan.mp3");
+	song1 = loadSound("music2.mp3");
   song2 = loadSound("harrypoter.mp3")
 }
 function setup() {
